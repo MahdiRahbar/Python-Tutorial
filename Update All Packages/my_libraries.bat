@@ -1,0 +1,1 @@
+pip install numpy pandas matplotlib seaborn sklearn scikit-image pyqt5-tools hazm tensorflow-gpu keras jupyter neat-python
